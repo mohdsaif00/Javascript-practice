@@ -19,3 +19,62 @@
 //Q9: Question: Ek string me do strings join (concatenate) karo.
 
 //Q10: Question: Ek string me se white spaces hatao
+/*  =============================================================  */
+
+//Day 2 homework
+
+/* Q1- 
+let x = 10;
+let y = 20;
+
+if (x>5 && y<25) {
+    console.log("A");
+}else{
+    console.log("B");
+    
+} OUTPUT =>      */
+
+/* Q2-
+let isAdmin = true;
+let isLogin = false;
+
+if (isAdmin || isLogin) {
+    console.log("true");
+}else{
+    console.log("false");
+} OUTPUT =>       */
+
+/*  Q3-
+let temp = 35;
+if(!(temp<30)){
+    console.log("hot");
+}else{
+    console.log("normal");
+}OUTPUT =>         */
+
+/* Q4-
+let a = 0
+if(a){
+    console.log("true");
+}else{
+    console.log("false");
+} OUTPUT =>         */
+
+/* Q5-
+let score = 78;
+let grade = score>=90 ? "A" : score>=75 ? "B" : score >=60 ? "C" : fail;
+console.log(grade);
+OUTPUT =>           */ 
+
+/* Q6-
+let points = 120;
+let status = points>100 ? "Gold" : points>50 ? "Silver" : "Bronze"
+console.log(status);
+OUTPUT =>           */
+
+/* Q7-
+let Login =  true;
+let hasTaken = false;
+let access = Login && hasTaken ? "allow" : "Deny"
+console.log(access);
+OUTPUT =>           */
