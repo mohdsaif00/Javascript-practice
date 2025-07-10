@@ -78,3 +78,16 @@ let hasTaken = false;
 let access = Login && hasTaken ? "allow" : "Deny"
 console.log(access);
 OUTPUT =>           */
+
+/* =================================================================== */
+//Day-4 Homework
+
+//Q1- 1 se 10 tak ke number print kro for loop ka use krke.
+//Q2- 10 se 1 tak ke number print kro while loop ka use krke.
+//Q3- 1 se 20 tak ke saare even(2 se divide hone wale)number print kro for loop ka use krke.
+//Q4- 1 se 20 tak ke saare odd(jo 2 se divide na ho) number print kro while loop ka use krke.
+//Q5- 5 ka table print kro jaise (5x1 = 5, 5x2=10.....).
+//Q6- 1 se 100 tak ke numbers ka total(sum) nikalo loop ka use krke.
+//Q7- 1 se 50 ke beech ke saare numbers print karo jo 3 se divide ho jaate hai.
+//Q8- user se ek number lo, fir 1 se leke us number tak ke har number ke liye print kro ki wo even hai ya odd.
+//Q9- 1 se 100 ke bich kitne numbers hai jo 3 aur 5 dono se divide ho jaate hai.
