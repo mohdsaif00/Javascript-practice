@@ -11,6 +11,7 @@ javascript me mainly 3 type ke loop hote hai: */
         //code to be executed
         } */
        
+       
 /*  for(let i=1; i<=10; i++){
          console.log(i);
  } */
@@ -70,11 +71,3 @@ do {
     }
     n++;
 }while (n <= 20);   */
-
-//do-while loop ka use karke 1 se 20 tak ke saare number print karna
-/* let o = 1;  
-do {
-    console.log(o);
-    o++;
-}while (o <= 20);
- */

@@ -1,5 +1,4 @@
 DAY-1
-
 //What Is JavaScript = DONE
 
 //How Its Work = DONE
@@ -28,5 +27,16 @@ Logical, Unary, Ternary = DONE
 
 ===========================================
 DAY-3
-//CONDITIONAL (if, else, else-if/ switch)
+//CONDITIONAL (if, else, else-if/ switch) = DONE
 
+===========================================
+DAY-4
+//Loops(for, while, do-while) =DONE
+
+===========================================
+DAY-5
+//Functions
+*Function Declarations, Function Expressions, Fat Arrow Function
+*Parameters vs Arguments
+*Default, Rest and Spread Parameters
+*Return Vlaues and Early Returnsaaa
