@@ -39,4 +39,9 @@ DAY-5
 *Function Declarations, Function Expressions, Fat Arrow Function
 *Parameters vs Arguments
 *Default, Rest and Spread Parameters
-*Return Vlaues and Early Returnsaaa
+*first-class function - confusing
+*Higer-order function - confusing
+*pure vs impure
+*closures and lexical scoping
+*IIFE(immediately invoked function expression)
+*Hoisting diff between declaration and expression
